@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Luo2017
+- 👋 Hi, I’m @t5577
 - 👀 I’m interested in Java.
-- 🌱 I’m currently learning Java & database.
+- 🌱 I’m currently learning Java & netty.
 
 <!---
 Luo2017/Luo2017 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
